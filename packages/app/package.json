@@ -1,0 +1,29 @@
+{
+  "version": "0.0.0",
+  "name": "app",
+  "main": "index.ts",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.24.0",
+    "@react-native/assets-registry": "^0.75.1",
+    "@rn-primitives/accordion": "^1.0.3",
+    "@rn-primitives/avatar": "^1.0.3",
+    "@rn-primitives/portal": "^1.0.3",
+    "@rn-primitives/progress": "^1.0.3",
+    "@rn-primitives/slot": "^1.0.3",
+    "@rn-primitives/tooltip": "^1.0.3",
+    "@rn-primitives/types": "^1.0.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "expo-navigation-bar": "^3.0.7",
+    "lucide-react": "^0.428.0",
+    "lucide-react-native": "0.378.0",
+    "moti": "latest",
+    "nativewind": "4.0.33",
+    "react-native-reanimated": "~3.10.1",
+    "react-native-svg": "15.2.0",
+    "solito": "4.0.1",
+    "tailwind-merge": "2.2.1",
+    "tailwindcss-animate": "1.0.7"
+  },
+  "sideEffects": false
+}
